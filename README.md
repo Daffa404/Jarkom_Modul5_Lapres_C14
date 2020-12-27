@@ -30,9 +30,9 @@ xterm -T SIDOARJO -e linux ubd0=SIDOARJO,jarkom umid=SIDOARJO eth0=daemon,,,swit
 xterm -T GRESIK -e linux ubd0=GRESIK,jarkom umid=GRESIK eth0=daemon,,,switch6 mem=96M &
 ```
 ### B. VLSM
-* Pembagian Subnet
+* Pembagian Subnet  
 ![](img/2.jpg)
-* Pohon IP
+* Pohon IP  
 ![](img/3.jpg)
 * Interfaces  
 SURABAYA (Router)
