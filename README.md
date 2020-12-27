@@ -34,7 +34,7 @@ xterm -T GRESIK -e linux ubd0=GRESIK,jarkom umid=GRESIK eth0=daemon,,,switch6 me
 ![](img/2.jpg)
 * Pohon IP
 ![](img/3.jpg)
-* Interfaces
+* Interfaces  
 SURABAYA (Router)
 ```
 auto lo
